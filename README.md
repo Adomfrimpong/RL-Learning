@@ -2,8 +2,8 @@
 
 Name: Isaac Frimpong Asante
 Student ID: 22424646
-GitHub Repository: https://github.com/Adomfrimpong/My-Reinforcement-Learning-Hub
-Report Link: https://github.com/Adomfrimpong/My-Reinforcement-Learning-Hub/blob/main/Report.pdf
+GitHub Repository: https://github.com/Adomfrimpong/RL-Learning.git
+Report Link: https://github.com/Adomfrimpong/RL-Learning/blob/main/Report.pdf
 
 This project delivers a complete Reinforcement Learning solution for the 8x8 Frozen Lake problem. The environment, the agent, the training loop, and the evaluation run from scratch in plain Python. The code uses no Gymnasium, Gym, Stable Baselines, or RLlib.
 
