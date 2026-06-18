@@ -1,0 +1,8 @@
+Submission
+
+Name: Isaac Frimpong Asante
+Student ID: 22424646
+Course: DSCD 614 Reinforcement Learning
+Assignment: Programming Assignment 1, Frozen Lake from First Principles Using Q-Learning
+GitHub Repository: https://github.com/Adomfrimpong/My-Reinforcement-Learning-Hub
+Report Link: https://github.com/Adomfrimpong/My-Reinforcement-Learning-Hub/blob/main/Report.pdf
